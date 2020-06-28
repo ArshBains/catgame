@@ -1,2 +1,4 @@
 # catgame
-Simple game to click on cat on screen and avoid clicking on rats.
+
+Simple JS game where player has to click the cat on grid and avoid clicking on rats.
+Click "Play" to start the game
